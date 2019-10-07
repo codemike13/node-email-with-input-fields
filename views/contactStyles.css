@@ -1,0 +1,11 @@
+.form-group{
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+
+}
+
+.form-control{
+    width:70px;
+    
+}
